@@ -110,11 +110,11 @@
 //     break;
 // }
 //Equilateral triangle
-let s1 = Number(prompt("Enter 1st side of triangle"));
-let s2 = Number(prompt("Enter 2nd side of triangle"));
-let s3 = Number(prompt("Enter 3rd side of triangle"));
-if (s1 == s2 && s2 == s3 && s1 == s3) {
-  console.log("It is Equilateral triangle");
-} else {
-  console.log("it is not a Equilateral triangle ");
-}
+// let s1 = Number(prompt("Enter 1st side of triangle"));
+// let s2 = Number(prompt("Enter 2nd side of triangle"));
+// let s3 = Number(prompt("Enter 3rd side of triangle"));
+// if (s1 == s2 && s2 == s3 && s1 == s3) {
+//   console.log("It is Equilateral triangle");
+// } else {
+//   console.log("it is not a Equilateral triangle ");
+// }
